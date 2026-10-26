@@ -2,7 +2,7 @@
 
 Última atualização: 26 de outubro de 2026.
 
-Esta política descreve o tratamento de informações no CantusCaeli, aplicativo Android desenvolvido por Djames Suhanko, identificado pelo pacote `com.suhanko.partitool`. O aplicativo intenta fazer o melhor trabalho de conversão de PDF para partitura (quando o arquivo PDF permite tal trabalho), assim como converter arquivos Lilypond para partitura também. O resultado da conversão é um arquivo MusicXML.
+Esta política descreve o tratamento de informações no Partitool, aplicativo Android desenvolvido por Djames Suhanko, identificado pelo pacote `com.suhanko.partitool`. O aplicativo intenta fazer o melhor trabalho de conversão de PDF para partitura (quando o arquivo PDF permite tal trabalho), assim como converter arquivos Lilypond para partitura também. O resultado da conversão é um arquivo MusicXML.
 
 O resultado final pode necessitar de arremates, feitos em editores como o MuseScore, que é gratuito.
 
