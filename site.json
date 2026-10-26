@@ -1,0 +1,10 @@
+{
+  "repository": "DjamesSuhanko/partitoolsite",
+  "domain": "partitool.clavesol.com.br",
+  "title": "Partitool",
+  "description": "Conversor de PDF e Lilypond para MusicXML.",
+  "author": "Djames Suhanko",
+  "email": "djames.suhanko@gmail.com",
+  "logo": "app-logo.png",
+  "privacy_ready": true
+}
